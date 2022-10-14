@@ -1,0 +1,35 @@
+.card-siri{
+    font-size: 1.2rem;
+    background-color: rgba(255, 255, 255, 0) !important;
+    border-color: rgba(255, 255, 255, 0) !important;
+    
+}
+
+
+.card-body-siri{
+    color: hsl(0, 10%, 4%) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    border-color: rgba(255, 255, 255, 0) !important;
+    margin: 1rem !important;
+    border-radius: 1rem;
+}
+
+.card-holder-siri{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.profile-style-siri{
+    background-color: #c9eef9 !important;
+    transition: all linear 0.3s;
+    color:rgb(10, 10, 10);
+}
+
+.profile-style-siri:hover{
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 2px;
+    scale: 1.07;
+}

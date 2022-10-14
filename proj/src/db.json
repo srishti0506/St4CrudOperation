@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Sumit",
+      "username": "qwerty",
+      "email": "sumit1735.be20@gmail.com",
+      "phone": "7878965423",
+      "website": "qwerty",
+      "id": 2
+    },
+    {
+      "name": "Smridhi",
+      "username": "sm_gunii",
+      "email": "smridhi21@gmail.com",
+      "phone": "78901823",
+      "website": "",
+      "id": 3
+    },
+    {
+      "name": "Vanshaj",
+      "username": "v_b",
+      "email": "vb@gmail.com",
+      "phone": "9988776655",
+      "website": "spac_ky",
+      "id": 4
+    }
+  ]
+}
